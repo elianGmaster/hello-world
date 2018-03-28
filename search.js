@@ -7,7 +7,7 @@ var searchString;
 
 process.argv.forEach(function (val, index, array) {
     vals_ar.push(val);
-    //console.log(index + ': ' + val);
+    
   });
 
 ext = vals_ar[2];
