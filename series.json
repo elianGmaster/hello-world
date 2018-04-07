@@ -1,0 +1,57 @@
+[
+    {
+        "image":"black_panther.jpg",
+        "name":"Black Panther",
+        "description":"Story about black wild cat",
+        "release_date":"2014",
+        "rate_a":"0",
+        "rate_c":"0"
+    },
+    
+    {
+        "image":"deadpool.jpg",
+        "name":"Deadpool 2",
+        "description":"Scary movie",
+        "release_date":"2015",
+        "rate_a":"0",
+        "rate_c":"0"
+    },
+    
+    {
+        "image":"terminal.jpg",
+        "name":"Terminal",
+        "description":"Some kind of movie",
+        "release_date":"2016",
+        "rate_a":"0",
+        "rate_c":"0"
+    },
+    
+    {
+        "image":"wonderwoman.jpg",
+        "name":"Wonder Woman",
+        "description":"Gal Gadot My love",
+        "release_date":"2017",
+        "rate_a":"0",
+        "rate_c":"0"
+    },
+    
+    {
+        "image":"peter_rabbit.jpg",
+        "name":"Peter Rabbit",
+        "description":"Some rabbit story",
+        "release_date":"2018",
+        "rate_a":"0",
+        "rate_c":"0"
+    },
+    
+    {
+        "image":"getout.jpg",
+        "name":"GET OUT",
+        "description":"Some bad trash movie",
+        "release_date":"2017",
+        "rate_a":"0",
+        "rate_c":"0"
+    }
+    
+    
+]
