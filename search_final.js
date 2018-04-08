@@ -73,5 +73,3 @@ function showFiles(){
     }
    console.log("-------")
 }
-//console.log(ext)
-//console.log(searchString)
