@@ -1,0 +1,7 @@
+function dataSience()
+	{
+		if(jQuery(window).location == " https://www.itc.tech/fellows-data-science/" && jQuery(window).width < 767)
+		{
+			jQuery(".home-slider .slider-text").css("top","12%");
+		}
+	}
