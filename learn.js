@@ -1,3 +1,4 @@
+// 2 in state of 10
 
 const power = function(base, exponent) {
   let result = 1;
